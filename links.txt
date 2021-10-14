@@ -1,0 +1,1 @@
+https://django-smart-selects.readthedocs.io/en/latest/index.html
